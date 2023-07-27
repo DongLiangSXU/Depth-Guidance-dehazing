@@ -1,1 +1,1 @@
-
+Place the downloaded model in the "trained_model" directory
